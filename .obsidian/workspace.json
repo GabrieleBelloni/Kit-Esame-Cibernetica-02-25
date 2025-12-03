@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "01-Gem/Gem 01 - Gem di Gruppo 01.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Gem 01 - Gem di Gruppo 01"
             }
           }
         ]
@@ -133,8 +133,8 @@
     "hiddenItems": {
       "graph:Apri vista grafo": false,
       "templates:Inserisci modello": false,
-      "homepage:Open homepage": false,
-      "command-palette:Apri riquadro comandi": false
+      "command-palette:Apri riquadro comandi": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "e7a7b303c61786dc",
@@ -149,7 +149,7 @@
     "02-NotebookLM/NotebookA/NotebookA 1.md",
     "99-SalaMacchine/Template/NotebookTemplate.md",
     "02-NotebookLM/NotebookB/NotebookB.md",
-    "01-Gem/Gem 01 - NomeDelGem.md",
+    "01-Gem/Gem 01 - Gem di Gruppo 01.md",
     "02-NotebookLM/NotebookB",
     "02-NotebookLM/NotebookA",
     "02-NotebookLM",
