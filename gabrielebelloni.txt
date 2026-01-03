@@ -1,7 +1,7 @@
-- Nome Cognome
-- Mail istituzionale
-- Numero di matricola/libretto
-- Indirizzo completo di https:// del proprio repository d'esame.
+- Gabriele Belloni
+- gabrielebelloni@studenti.accademiasironi.it
+- 4295
+- https://github.com/GabrieleBelloni/Kit-Esame-Cibernetica-02-25.git
 
 Note:
 

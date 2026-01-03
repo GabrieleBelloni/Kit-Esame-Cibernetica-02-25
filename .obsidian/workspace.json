@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "02-NotebookLM/NotebookA/NotebookA.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "NotebookA"
             }
           }
         ]
@@ -139,21 +139,23 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "README.md",
-    "Legenda chiavi da tastiera.md",
-    "IstruzioniGenerali.md",
-    "Senza nome",
     "02-NotebookLM/NotebookA/LinkNotebookA.md",
-    "02-NotebookLM/NotebookA/NotebookA.md",
-    "02-NotebookLM/NotebookB/LinkNotebookB.md",
-    "02-NotebookLM/NotebookA/NotebookA 1.md",
-    "99-SalaMacchine/Template/NotebookTemplate.md",
     "02-NotebookLM/NotebookB/NotebookB.md",
+    "02-NotebookLM/NotebookB/LinkNotebookB.md",
+    "02-NotebookLM/NotebookA/NotebookA.md",
+    "README.md",
+    "99-SalaMacchine/DefaultShortcut.png",
+    "IstruzioniGenerali.md",
+    "Legenda chiavi da tastiera.md",
+    "99-SalaMacchine/Template/GEMTemplate.md",
+    "data.txt",
     "01-Gem/Gem 01 - NomeDelGem.md",
+    "99-SalaMacchine/Template/NotebookTemplate.md",
+    "Senza nome",
+    "02-NotebookLM/NotebookA/NotebookA 1.md",
     "02-NotebookLM/NotebookB",
     "02-NotebookLM/NotebookA",
     "02-NotebookLM",
-    "99-SalaMacchine/Template/GEMTemplate.md",
     "01-Gem",
     "99-SalaMacchine/Template",
     "99-SalaMacchine"

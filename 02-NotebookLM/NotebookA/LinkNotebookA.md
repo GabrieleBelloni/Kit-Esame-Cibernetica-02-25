@@ -1,7 +1,38 @@
-Riporta su questa pagina l’eventuale sitografia completa che hai dato in pasto al tuo Notebook. I collegamenti devono essere cliccabili e in ordine alfabetico. Quando hai finito, cancella questo testo introduttivo.
 
 ## Sitografia Notebook A
 
-- https://accademiasironi.it
-- https://davideriboli.net
-- https://google.com
+- https://ltx.studio/blog-category/tutorials
+- https://ltx.studio/blog/essential-steps-for-film-planning
+- https://ltx.studio/blog/film-editing-techniques
+- https://ltx.studio/blog/flux-2-in-ltx
+- https://ltx.studio/blog/flux-kontext-in-ltx-studio
+- https://ltx.studio/blog/flux-vs-nano-banana
+- https://ltx.studio/blog/getting-started-with-elements
+- https://ltx.studio/blog/how-to-create-a-consistent-character
+- https://ltx.studio/blog/how-to-create-a-custom-voiceover
+- https://ltx.studio/blog/how-to-generate-hyper-realistic-imagery
+- https://ltx.studio/blog/how-to-remove-object-from-video
+- https://ltx.studio/blog/how-to-storyboard
+- https://ltx.studio/blog/how-to-turn-photos-into-videos
+- https://ltx.studio/blog/how-to-upscale-a-video
+- https://ltx.studio/blog/how-to-write-a-movie-synopsis
+- https://ltx.studio/blog/how-to-write-a-prompt
+- https://ltx.studio/blog/how-to-write-a-short-film-script
+- https://ltx.studio/blog/ltxv-models
+- https://ltx.studio/blog/mastering-camera-shots-and-angles
+- https://ltx.studio/blog/mastering-multi-image-references
+- https://ltx.studio/blog/nano-banana-pro-advanced-image-generation-now-in-ltx-studio
+- https://ltx.studio/blog/negative-prompts
+- https://ltx.studio/blog/product-update-ltx-april-2025
+- https://ltx.studio/blog/prompting-long-shots-with-ltx-2-how-to-build-20-second-cinematic-moments
+- https://ltx.studio/blog/retake-ai-directing-tool-ltx-studio
+- https://ltx.studio/blog/storyboard-techniques
+- https://ltx.studio/blog/veo-3-1-release-ltx
+- https://ltx.studio/blog/video-production-process-guide
+- https://ltx.studio/blog/visualize-your-ideas-with-the-new-ai-image-generator
+- https://ltx.studio/blog/what-is-an-elevator-pitch
+- https://ltx.studio/glossary
+- https://www.youtube.com/watch?v=4CnDxHpv3oo
+- https://www.youtube.com/watch?v=HMiPVYWB9Gk
+- https://www.youtube.com/watch?v=QxQN8dd0lKQ
+- https://www.youtube.com/watch?v=zGM6W-c6iPM
